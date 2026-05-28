@@ -1,11 +1,10 @@
 ## 🎵 Currently Vibing To
 
+## 🎵 Spotify
+
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31euv4lcxamsciqyka6f7rxboruq&redirect=true">
-    <img 
-      src="https://spotify-github-profile.vercel.app/api/view?uid=31euv4lcxamsciqyka6f7rxboruq&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=7F5AF0&bar_color_cover=false" 
-      width="420"
-    />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31euv4lcxamsciqyka6f7rxboruq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
   </a>
 </p>
 
