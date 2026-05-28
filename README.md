@@ -9,3 +9,24 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=late+night+coding+playlist.;music+%2B+code+%3D+perfect+combo.;always+discovering+new+artists." />
 </p>
+
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Student+Developer;Learning+Web+%26+Mobile+Development;Building+Projects+Every+Day" />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="700">
+
+### 🚀 About Me
+
+```txt id="vbjlwm"
+💻 Student passionate about coding
+🌐 Learning modern web development
+📱 Exploring mobile app development
+🎨 Interested in clean UI + creative design
+⚡ Building projects and improving daily
