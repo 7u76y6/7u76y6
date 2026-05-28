@@ -1,18 +1,14 @@
-## Hi there 👋
+## 🎵 Currently Vibing To
 
-<!--
-**7u76y6/7u76y6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31euv4lcxamsciqyka6f7rxboruq&redirect=true">
+    <img 
+      src="https://spotify-github-profile.vercel.app/api/view?uid=31euv4lcxamsciqyka6f7rxboruq&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=7F5AF0&bar_color_cover=false" 
+      width="420"
+    />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2>edfe</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=late+night+coding+playlist.;music+%2B+code+%3D+perfect+combo.;always+discovering+new+artists." />
+</p>
